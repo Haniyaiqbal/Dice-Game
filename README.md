@@ -11,5 +11,13 @@ Finally, the game compares the two rolled numbers and displays the result on the
 Try It Out:
 Feel the excitement of rolling the dice and challenging your friends to this engaging Dice Game. Open the index.html file in your web browser, click "Refresh Me," and see who comes out victorious!
 
+try It Out:
+Experience the excitement of rolling the dice and challenge your friends to a thrilling match of Dice Game. Open index.html in your web browser, click "Refresh Me," and see who emerges victorious! 🎲
+
 Author:
-This Dice Game was created by haniya. Enjoy the thrill of rolling the dice and may the best player win! 🎲
+haniya 🎲
+
+
+
+
+
